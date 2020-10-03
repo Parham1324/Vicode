@@ -1,1 +1,1 @@
-[{"عکس":"http://s10.picofile.com/file/8407307426/PicsArt_08_31_10_58_51.png","متن اصلی":"http://s10.picofile.com/file/8407307426/PicsArt_08_31_10_58_51.png"}]
+[{"عکس":"http://s15.picofile.com/file/8409834518/PicsArt_10_03_03_40_11.jpg","متن اصلی":"برترین ها "}]
